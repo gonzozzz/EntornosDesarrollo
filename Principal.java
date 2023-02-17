@@ -22,8 +22,7 @@ public class Principal {
 		System.out.println(libro2.toString());
 		System.out.println(libro3.toString());
 		
-		System.out.println("uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu"
-				+ "uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu");
+		System.out.println("uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu");
 		System.out.println("Se presta el libro 1");
 		libro1.prestar();
 		System.out.println(libro1.toString());
